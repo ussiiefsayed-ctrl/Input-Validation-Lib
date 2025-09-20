@@ -1,5 +1,7 @@
-# Input-Validation-Lib
+📌 clsInputValidate Library
 
+The clsInputValidate library provides a collection of static methods for validating user input and handling common input errors in C++.
+It helps reduce repetitive code and ensures safer, more reliable input handling in your applications.
 
 ✅ Validate whether numbers are within a specific range.
 
